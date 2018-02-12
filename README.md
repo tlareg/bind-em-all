@@ -5,6 +5,9 @@
 </div>
 
 [![Build Status](https://travis-ci.org/tlareg/bind-em-all.svg?branch=master)](https://travis-ci.org/tlareg/bind-em-all)
+[![npm version](https://badge.fury.io/js/bind-em-all.svg)](https://badge.fury.io/js/bind-em-all)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/tlareg/bind-em-all/blob/master/LICENSE)
 
 ## Install
 
