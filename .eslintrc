@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-airbnb",
+  "env": {
+    "jest": true,
+    "node": true
+  },
+  "globals": {
+    "expect": true
+  },
+  "rules": {
+    "linebreak-style": ["error", "windows"],
+    "semi": 0
+  }
+}
