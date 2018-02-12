@@ -4,6 +4,7 @@
   <p>Bind methods to given context.</p>
 </div>
 
+[![Build Status](https://travis-ci.org/tlareg/bind-em-all.svg?branch=master)](https://travis-ci.org/tlareg/bind-em-all)
 
 ## Install
 
